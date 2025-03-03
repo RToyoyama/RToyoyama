@@ -10,7 +10,12 @@
 
  ### Contato:
  ![Gmail](https://img.shields.io/badge/renantoyoyama@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
  
 
+ ### Social:
+ ![Facebook](https://img.shields.io/badge/RenanToyoyama-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+ 
+ ![Instagram](https://img.shields.io/badge/barista_toyao-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+ ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
  
